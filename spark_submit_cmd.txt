@@ -1,0 +1,1 @@
+C:\Spark\spark-2.4.8-bin-hadoop2.7\bin\spark-submit  --class org.example.h2 C:\Users\241997\IdeaProjects\SparkScalaSetup\Spark\out\artifacts\sparkjarfile\sparkjarfile.jar
